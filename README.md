@@ -1,6 +1,2 @@
-#mobile programming
-# mobile-programming
-# mobile-programming
-# mobile-programming
-# mobile-programming
-# mobile-programming
+# mobile-class
+# mobile-class
