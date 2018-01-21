@@ -1,2 +1,0 @@
-# mobile-class
-# mobile-class
